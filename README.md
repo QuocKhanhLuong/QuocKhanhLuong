@@ -13,8 +13,9 @@ Reach out to collaborate on exciting AI projects! 🥇
 # 📊 **GitHub Stats**
 ![QuocKhanhLuong's Stats](https://github-readme-stats.vercel.app/api?username=QuocKhanhLuong&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![QuocKhanhLuong's Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuocKhanhLuong&theme=tokyonight&hide_border=true&count_private=true)<br>
+![Repobeats analytics image](https://repobeats.axiom.co/api/embed/f71be8391ef1b12ca6b1775951bd35437928733f.svg "Repobeats analytics image")<br>
 ![QuocKhanhLuong's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuocKhanhLuong&theme=tokyonight&show_icons=true&hide_border=true&layout=donut-vertical)
-![Repobeats analytics image](https://repobeats.axiom.co/api/embed/f71be8391ef1b12ca6b1775951bd35437928733f.svg "Repobeats analytics image")
+
 #  📡 **Connect with me**  
 Let's connect and collaborate! Find me on:
 
