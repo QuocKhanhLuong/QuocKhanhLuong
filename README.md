@@ -11,6 +11,7 @@ Reach out to collaborate on exciting AI projects! 🥇
 </div>         
 
 # 📊 **GitHub Stats**
+![](https://github-readme-activity-graph.vercel.app/graph?username=QuocKhanhLuong&theme=react-dark&days=30)
 ![QuocKhanhLuong's Stats](https://github-readme-stats.vercel.app/api?username=QuocKhanhLuong&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![QuocKhanhLuong's Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuocKhanhLuong&theme=tokyonight&hide_border=true&count_private=true)<br>
 ![Repobeats analytics image](https://repobeats.axiom.co/api/embed/f71be8391ef1b12ca6b1775951bd35437928733f.svg "Repobeats analytics image")<br>
