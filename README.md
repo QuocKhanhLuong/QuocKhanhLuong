@@ -2,49 +2,42 @@
 
 # Hi, I'm Lương Quốc Khánh 👋
 
-### Computer Vision Researcher | Medical Imaging | HUST
+**Computer Vision Researcher · Medical Imaging · HUST**
+
+[LinkedIn](https://www.linkedin.com/in/qu%E1%BB%91c-kh%C3%A1nh-l%C6%B0%C6%A1ng-05aa2b322/) ·
+[Google Scholar](YOUR_GOOGLE_SCHOLAR_LINK) ·
+[Email](mailto:YOUR_EMAIL)
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
-I am a Computer Vision researcher at Hanoi University of Science and Technology, focusing on **medical image analysis**, particularly cardiac MRI segmentation and 2D-to-3D reconstruction.
+I am a Computer Vision researcher at Hanoi University of Science and Technology, primarily working on **medical image analysis**.
 
-* 🎓 HEDSPI — HUST, Class of 2027
-* 🔬 Research Assistant in AI and Computer Vision
-* 🫀 Medical Imaging and Deep Learning
-* 🤝 Open to research collaborations
+My research focuses on cardiac MRI segmentation, physics-informed deep learning, efficient vision architectures, and 2D-to-3D medical image reconstruction.
 
-## 🔬 Research Interests
+## Research Interests
 
-* Medical image segmentation
-* Cardiac MRI analysis
-* 2D-to-3D reconstruction
-* Physics-informed deep learning
-* Efficient vision architectures
+`Medical Image Segmentation` · `Cardiac MRI` · `Physics-informed Learning` · `3D Reconstruction` · `Efficient Vision Models`
 
-## 📄 Publication
+## Selected Publication
 
 **Integrating Physics Guidance into Deep Learning for Cine Cardiovascular Segmentation**
 *Computerized Medical Imaging and Graphics, 2026*
 
-## 🚀 Featured Project
+## Featured Research
 
-<a href="https://github.com/QuocKhanhLuong/SpecMamba">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuocKhanhLuong&repo=SpecMamba&theme=tokyonight&hide_border=true" alt="SpecMamba"/>
-</a>
+### [SpecMamba](https://github.com/QuocKhanhLuong/SpecMamba)
 
-## 🛠️ Tech Stack
+Exploring spectral and state-space representations for structure-aware cardiac MRI segmentation.
 
-`Python` · `PyTorch` · `OpenCV` · `NumPy` · `Pandas` · `Scikit-learn` · `Git` · `Linux` · `LaTeX`
+## Tech Stack
 
-## 📊 GitHub Stats
+`Python` · `PyTorch` · `OpenCV` · `MONAI` · `NumPy` · `Git` · `Linux` · `LaTeX`
 
-<div align="center">
+## Connect
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuocKhanhLuong&theme=tokyonight" alt="GitHub Stats"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=QuocKhanhLuong&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
+[GitHub](https://github.com/QuocKhanhLuong) ·
+[LinkedIn](https://www.linkedin.com/in/qu%E1%BB%91c-kh%C3%A1nh-l%C6%B0%C6%A1ng-05aa2b322/) ·
+[Facebook](https://www.facebook.com/alvin.khanh1g) ·
+[Instagram](https://www.instagram.com/_alvin.khanhlg_/)
