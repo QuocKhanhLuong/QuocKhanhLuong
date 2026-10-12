@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/qu%E1%BB%91c-kh%C3%A1nh-l%C6%B0%C6%A1ng-05aa2b322/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://doi.org/10.1016/j.compmedimag.2026.102798"><img src="https://img.shields.io/badge/CMIG-2026%20Publication-0E7490?style=flat-square&logo=readthedocs&logoColor=white" alt="CMIG publication" /></a>
 <a href="https://github.com/QuocKhanhLuong?tab=followers"><img src="https://img.shields.io/github/followers/QuocKhanhLuong?style=flat-square&label=Followers&color=2563EB" alt="GitHub followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=QuocKhanhLuong&label=Profile%20views&color=0E7490&style=flat-square" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=QuocKhanhLuong.QuocKhanhLuong&amp;left_text=Profile%20views&amp;right_color=%230E7490" alt="Profile views" />
 
 </div>
 
