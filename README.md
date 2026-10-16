@@ -85,6 +85,6 @@ Presents **PGE-UNet**, a lightweight cine-CMR segmentation framework combining a
 
 ## Connect
 
-[**GitHub**](https://github.com/QuocKhanhLuong) · [**LinkedIn**](https://www.linkedin.com/in/qu%E1%BB%91c-kh%C3%A1nh-l%C6%B0%C6%A1ng-05aa2b322/) · [**Facebook**](https://www.facebook.com/alvin.khanh1g) · [**Instagram**](https://www.instagram.com/_alvin.khanhlg_/)
+[**GitHub**](https://github.com/QuocKhanhLuong) · [**LinkedIn**](https://www.linkedin.com/in/qu%E1%BB%91c-kh%C3%A1nh-l%C6%B0%C6%A1ng-05aa2b322/) · [**Facebook**](https://www.facebook.com/alvin.khanh1g) · [**Instagram**](https://www.instagram.com/alvinkhlg._/)
 
 <sub>Interested in medical imaging, robust vision models, or research collaboration? Feel free to reach out on LinkedIn.</sub>
