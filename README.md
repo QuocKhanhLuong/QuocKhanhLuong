@@ -78,7 +78,9 @@ Presents **PGE-UNet**, a lightweight cine-CMR segmentation framework combining a
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuocKhanhLuong&theme=github-compact&hide_border=true&area=true" alt="Recent GitHub activity graph" />
+<img width="100%" src="./assets/recent-activity.svg" alt="GitHub activity graph for the last 31 days" />
+
+<sub>Last 31 days · automatically updated daily by GitHub Actions</sub>
 
 </div>
 </details>
